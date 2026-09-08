@@ -683,3 +683,8 @@ footer {
         .social-links a:hover {
             color: #3498db;
         }
+        .logo {  text-decoration: none;
+    color: var(--pink);
+    font-family: "Baloo 2", cursive;
+    font-size: 28px;
+    font-weight: 800;}
